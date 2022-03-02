@@ -5,9 +5,9 @@ namespace basicprograms
     {
         static void Main(string[] args)
         {
-            leapyear.checkleapyear();
+            //leapyear.checkleapyear();
             //flip_coin.flipcoinpercentage();
-            //power2.displaypower();
+            power_2.calculatepower();
             
         }
     }
