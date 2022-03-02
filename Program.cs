@@ -5,8 +5,8 @@ namespace basicprograms
     {
         static void Main(string[] args)
         {
-            //username.displayusername();
-            flip_coin.flipcoinpercentage();
+            leapyear.checkleapyear();
+            //flip_coin.flipcoinpercentage();
             //power2.displaypower();
             
         }
