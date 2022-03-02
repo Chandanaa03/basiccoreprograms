@@ -9,7 +9,8 @@ namespace basicprograms
             //flip_coin.flipcoinpercentage();
             //power_2.calculatepower();
             //harmonicnumber.harmonic();
-            quotientandremainder.calculatequotientandremainder();
+            //quotientandremainder.calculatequotientandremainder();
+            swaptwonumbers.swapnumber();
         }
     }
 }
