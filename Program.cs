@@ -8,8 +8,8 @@ namespace basicprograms
             //leapyear.checkleapyear();
             //flip_coin.flipcoinpercentage();
             //power_2.calculatepower();
-            harmonicnumber.harmonic();
-            
+            //harmonicnumber.harmonic();
+            quotientandremainder.calculatequotientandremainder();
         }
     }
 }
