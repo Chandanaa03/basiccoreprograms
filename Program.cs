@@ -11,8 +11,8 @@ namespace basicprograms
             //harmonicnumber.harmonic();
             //quotientandremainder.calculatequotientandremainder();
             //swaptwonumbers.swapnumber();
-            evenandodd.checkevenandodd();
-
+            //evenandodd.checkevenandodd();
+            alphabets.checkalphabets();
         }
     }
 }
