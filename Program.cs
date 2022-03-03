@@ -10,7 +10,9 @@ namespace basicprograms
             //power_2.calculatepower();
             //harmonicnumber.harmonic();
             //quotientandremainder.calculatequotientandremainder();
-            swaptwonumbers.swapnumber();
+            //swaptwonumbers.swapnumber();
+            evenandodd.checkevenandodd();
+
         }
     }
 }
